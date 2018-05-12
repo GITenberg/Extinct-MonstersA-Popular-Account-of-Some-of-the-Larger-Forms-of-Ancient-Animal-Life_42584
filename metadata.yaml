@@ -1,0 +1,45 @@
+_repo: Extinct-MonstersA-Popular-Account-of-Some-of-the-Larger-Forms-of-Ancient-Animal-Life_42584
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Woodward, Henry
+    birthdate: 1832
+    deathdate: 1921
+    gutenberg_agent_id: '45425'
+    url: http://www.gutenberg.org/2009/agents/45425
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Woodward_%28geologist%29
+  illustrator:
+    agent_name: Smit, Joseph
+    alias: Smit, J. (Joseph)
+    birthdate: 1836
+    deathdate: 1929
+    gutenberg_agent_id: '41756'
+    url: http://www.gutenberg.org/2009/agents/41756
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Smit
+covers:
+- cover_type: archival
+  image_path: 42584-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hutchinson, H. N. (Henry Neville)
+    alias: Hutchinson, Henry Neville
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '41755'
+    url: http://www.gutenberg.org/2009/agents/41755
+description: ''
+gutenberg_issued: '2013-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42584'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Paleontology'
+title: 'Extinct Monsters
+
+  A Popular Account of Some of the Larger Forms of Ancient Animal Life'
+url: http://www.gutenberg.org/ebooks/42584
